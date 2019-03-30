@@ -1,0 +1,19 @@
+The functional requirements of the prototype are as follows:
+
+1. User
+User is able to input needed data.
+The user can submit filled out form.
+Allow user to view submitted data.
+Allow user to receive notifications for follow up inquiries from admin.
+User is able to view notifications.
+
+2. Admin
+The admin can add metric and indicator.
+The admin can edit metric and indicator.
+The admin can delete metric and indicator.
+The admin is able to view metric and indicator.
+Allow admin to send request forms to entities.
+Admin can view data visualizations in dashboard.
+Admin can view submitted data from entities.
+The admin is able to receive submitted data from entities.
+Can generate reports from the stored data.
